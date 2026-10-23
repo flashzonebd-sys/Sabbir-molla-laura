@@ -1,0 +1,6 @@
+{
+  "name": "Nora AI",
+  "description": "Personal AI English tutor to practice real conversations, improve pronunciation, build vocabulary, and speak confidently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
